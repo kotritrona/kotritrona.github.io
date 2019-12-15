@@ -29,7 +29,7 @@ const StringTable = {
       projects: "Projects",
       skills: "Skills",
       contact: "Contact",
-      tachieURL: "images/tiara.png"
+      tachieURL: "images/tia.png"
     },
     "thoughtsMetadata" : {
       title: "MODELING REALITY",
