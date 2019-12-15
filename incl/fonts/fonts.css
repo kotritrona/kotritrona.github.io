@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Bookman Old Style';
+    src: local('Bookman Old Style'),
+        url('subset-BookmanOldStyle.woff2') format('woff2'),
+        url('subset-BookmanOldStyle.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Book Antiqua';
+    src: local('Book Antiqua'),
+        url('subset-BookAntiqua.woff2') format('woff2'),
+        url('subset-BookAntiqua.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Letter Gothic Std';
+    src: local('Letter Gothic Std'),
+        url('subset-LetterGothicStd.woff2') format('woff2'),
+        url('subset-LetterGothicStd.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambria Math';
+    src: local('Cambria Math'),
+         url('cambria_math-webfont.woff2') format('woff2'),
+         url('cambria_math-webfont.woff') format('woff'),
+         url('cambria_math-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}

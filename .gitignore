@@ -1,0 +1,11 @@
+# the usual
+backup/
+node_modules/
+.DS_Store/
+
+# demo images
+images/demo.jpg
+
+# development tools
+buildtools/
+index_dev.html
