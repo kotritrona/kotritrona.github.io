@@ -98,13 +98,13 @@ const StringTable = {
       },
       {
         "title": "Love Live!",
-        "content": "SchoolFes was the best game on mobile; the other ones were just too greedy.\nProbably my first kind of music game which led me the way to the pandora's box.\nMy favorite character was Kotori!",
+        "content": "SchoolFes was the best game on mobile; the other ones were just too greedy.\nProbably my first kind of music game which led me the way to the pandora's box.\nMy favorite character was Kotori&lt;3",
         "image": "images/articles/ll.jpg",
         "href" : "https://love-live.fandom.com/wiki/Love_Live!"
       },
       {
         "title": "Music Games",
-        "content": "Around 2015 I played Maimai massively in a nearby arcade.\nThe best result I've achieved was a full combo on Lv.10 Master Momoiro Clover.\nAlso played a little Jubeat and Dynamix, getting to around level 8.\nAfter I had a PS4 also immediately bought Project Diva Future Tone and cleared all songs on Hard.",
+        "content": "Around 2015 I played Maimai massively in a nearby arcade.\nThe best result I've achieved was a full combo on Lv.10 Master Momoiro Clover.\nAlso played a little Jubeat and Dynamix, getting to around level 8.\nAfter I had a PS4 also immediately bought Project Diva Future Tone. (But it's too hard considering the deceiving Miku)",
         "image": "images/articles/mug.jpg",
         "href" : "https://www.youtube.com/watch?v=SLxSX5heyLk"
       },
