@@ -758,7 +758,7 @@ const StringTable = {
       },
       {
         "title": "机器学习",
-        "content": "机器都学习了，不知道人类还在学习个什么锤子。",
+        "content": "机器都学习了，人类可以休息了。",
         "href" : undefined,
         "level" : 73
       },
