@@ -26,16 +26,16 @@
 @top-description-margin: 14vh;
 @top-description-font-family: "Cambria Math", "Comic Sans MS";
 
-@section-title-font-family: "微软雅黑", "Microsoft YaHei", "Segoe UI", "Open Sans", sans-serif;
+@section-title-font-family: "Microsoft YaHei", "微软雅黑", "Segoe UI", "Open Sans", sans-serif;
 
 .main-page[lang="zh-cn"] {
     /* set the chinese font */
-    font-family: "微软雅黑", "Microsoft YaHei", sans-serif;
+    font-family: "Microsoft YaHei", "微软雅黑", sans-serif;
 }
 
 .main-page[lang="en"] {
     /* set the english font */
-    font-family: "微软雅黑", "Microsoft YaHei", "Segoe UI", sans-serif;
+    font-family: "Microsoft YaHei", "微软雅黑", "Segoe UI", sans-serif;
 }
 
 .bright-text() {
@@ -1673,6 +1673,42 @@ nav {
         box-shadow: none;
         background: none;
         transition: 100ms ease;
+    }
+
+    @social-size: 80px;
+    @social-icon-size: 35px;
+    @social-icon-lh: 80px;
+    @social-link-container-padding: 15px;
+    @social-margin: 20px;
+
+    .social {
+        height: @social-size;
+        width: @social-size;
+        margin-left: @social-margin/2;
+        margin-right: @social-margin/2;
+    }
+
+    .social-outer {
+        height: @social-size;
+        width: @social-size;
+    }
+
+    .social:hover {
+        transform: none;
+    }
+
+    .social-outer i, .social-outer span {
+        font-size: @social-icon-size;
+        line-height: @social-icon-lh;
+    }
+
+    .social-gauge {
+        width: @social-size;
+    }
+
+    .social-links {
+        width: auto;
+        padding: @social-link-container-padding;
     }
 }
 
