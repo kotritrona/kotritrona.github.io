@@ -1141,6 +1141,16 @@ nav {
   .cornerlink-outer:hover {
     transform: translate(50%, -50%) rotate(45deg);
   }
+  .cornerlink-outer {
+    height: 100px;
+    width: 100px;
+  }
+  .cornerlink-outer i,
+  .cornerlink-outer span {
+    margin-top: 65px;
+    font-size: 25px;
+    line-height: 35px;
+  }
   .more {
     margin-left: auto;
     margin-right: auto;
