@@ -9,14 +9,22 @@ class App extends React.Component {
     };
   }
 
+  setWindowTitle() {
+    let title = StringTable[this.state.lang].documentTitle;
+    if(title) {
+      document.title = title;
+    }
+  }
+
   languageChange() {
     let supportedLanguages = Object.keys(StringTable);
     let nextLanguage = (1 + supportedLanguages.indexOf(this.state.lang)) % supportedLanguages.length;
-
-    if(nextLanguage != this.state.lang) {
+    console.log("activated", nextLanguage);
+    if(supportedLanguages[nextLanguage] != this.state.lang) {
       this.setState({
         "lang" : supportedLanguages[nextLanguage]
       });
+      this.setWindowTitle();
     }
   }
 
@@ -39,6 +47,7 @@ class App extends React.Component {
   }
 
   render() {
+    this.setWindowTitle();
     return (
       <div className="main-page" lang={this.state.lang}>
         <ul className="slideshow">
@@ -58,6 +67,21 @@ class App extends React.Component {
 let cachedScrollY = 0;
 let firstScreenBorder = 1000;
 const slide5AheadAmount = window.innerHeight;
+
+let preloaded = false;
+function preload() {
+  if(preloaded) {
+    return;
+  }
+  const neededToLoad = [].concat(StringTable.en.thoughtsArticles.map(a => a.image))
+                         .concat(StringTable.en.adventuresArticles.map(a => a.image))
+                         .concat(StringTable.en.projectArticles.map(a => a.image));
+  neededToLoad.forEach(image => {
+    let elem = new Image();
+    elem.src = image;
+  });
+  preloaded = true;
+}
 
 function init() {
   firstScreenBorder = document.querySelector("li.slide-2").offsetTop;
@@ -79,6 +103,9 @@ function animframe() {
           else if(window.scrollY > document.querySelector("li.slide-5").offsetTop - slide5AheadAmount) {
             let offset = window.scrollY - document.querySelector("li.slide-5").offsetTop + slide5AheadAmount;
             document.querySelector("li.slide-5").style.backgroundPosition = "0 " + Math.floor(slide5AheadAmount - 2 * offset) + "px";
+          }
+          else {
+            preload();
           }
 
         }

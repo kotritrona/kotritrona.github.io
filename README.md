@@ -1,3 +1,3 @@
 ## Kotri's User Page
 
-TBW (to be written)
+Tachie subject to change (when I learn how to use MMD/PMX)
