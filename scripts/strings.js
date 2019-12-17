@@ -57,10 +57,16 @@ const StringTable = {
     },
     "thoughtsArticles" : [
       {
-        "title": "My three rules of life",
-        "content": "1. I cannot find a job.\n2. I cannot find a love.\n3. I cannot earn money.\nBecause I know I just can't.",
-        "image": "images/articles/dt1.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-1-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC-12-15"
+        "title": "Virtuality and Reality",
+        "content": "If there are deities in this world,\nthey will, just like us, hold love and passion for the virtual world.\nBut what kind of merciless creature,\nwould wish to see such a terrible reality?",
+        "image": "images/articles/virtual.jpg",
+        "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+      },
+      {
+        "title": "Reverse Anthropic Principle",
+        "content": "If there exists a universe whose inhabitants can live on forever,\nthen the ephemeral human beings will be statistically insignificant to exist here.\nHence, the reverse anthropic principle.\nThe only possibility is for all beings to equally come to an end.",
+        "image": "images/articles/dt4.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
       },
       {
         "title": "The end of economical growth",
@@ -75,10 +81,10 @@ const StringTable = {
         "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
       },
       {
-        "title": "Reverse Anthropic Principle",
-        "content": "If there exists a universe whose inhabitants can live on forever,\nthen the ephemeral human beings will be statistically insignificant to exist here.\nHence, the reverse anthropic principle.\nThe only possibility is for all beings to equally come to an end.",
-        "image": "images/articles/dt4.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
+        "title": "My three rules of life",
+        "content": "1. I cannot find a job.\n2. I cannot find a love.\n3. I cannot earn money.\nBecause I know I just can't.",
+        "image": "images/articles/dt1.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-1-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC-12-15"
       }
     ],
     "adventuresArticles" : [
@@ -569,6 +575,18 @@ const StringTable = {
     },
     "thoughtsArticles" : [
       {
+        "title": "二次元和三次元",
+        "content": "假如这个世界上有神灵的话，\n当然会和你我一样，对二次元抱有深厚的爱，\n但是有什么样的存在\n会想要看到像这样的一个三次元呢",
+        "image": "images/articles/virtual.jpg",
+        "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+      },
+      {
+        "title": "逆人择原理",
+        "content": "如果存在某个世界，那里作为人的生物能够永久的存在下去，\n那么统计学上来说，有限对无限，人类存在于现在这个世界的概率为零。\n这就是逆人择原理——\n唯一的可能性就是，所有的世界线上，所有类似人的生物，都会像人类现在这样灭亡。",
+        "image": "images/articles/dt4.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
+      },
+      {
         "title": "我的人生三定律",
         "content": "1. 我不可能找到工作。\n2. 我不可能恋爱结婚。\n3. 我不可能挣到钱。\n因为我早就明白，我这样的人不可能在这样的社会里生存。",
         "image": "images/articles/dt1.jpg",
@@ -585,12 +603,6 @@ const StringTable = {
         "content": "一个国家经常在某个循环中毁灭掉自己。\n之所以人类没有因此灭亡，是因为有其他不同阶段的国家进来重新占领。\n但是全球化的趋势终将统一世界，\n而统一后的世界，或许下一个循环的结束之时，就是一切的终点。",
         "image": "images/articles/dt3.jpg",
         "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
-      },
-      {
-        "title": "逆人择原理",
-        "content": "如果存在某个世界，那里作为人的生物能够永久的存在下去，\n那么统计学上来说，有限对无限，人类存在于现在这个世界的概率为零。\n这就是逆人择原理——\n唯一的可能性就是，所有的世界线上，所有类似人的生物，都会像人类现在这样灭亡。",
-        "image": "images/articles/dt4.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
       }
     ],
     "adventuresArticles" : [
