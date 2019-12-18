@@ -20,7 +20,7 @@ const StringTable = {
         },
         {
           "key" : "MP",
-          "value" : "654"
+          "value" : "477"
         }
       ]
     },
@@ -61,6 +61,12 @@ const StringTable = {
         "content": "If there are deities in this world,\nthey will, just like us, hold love and passion for the virtual world.\nBut what kind of merciless creature,\nwould wish to see such a terrible reality?",
         "image": "images/articles/virtual.jpg",
         "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+      },
+      {
+        "title": "Auto-affection",
+        "content": "No one is going to visit any of my website.\nEverything I have done, is nothing but an auto-affection.\nBut thinking again after I did this all, I decided it was all worth it.\nAuto-affection is much better than relying on others to send affection to me.",
+        "image": "images/articles/autoaffection.jpg",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/blog-post_18.html"
       },
       {
         "title": "Reverse Anthropic Principle",
@@ -538,7 +544,7 @@ const StringTable = {
         },
         {
           "key" : "MP",
-          "value" : "654"
+          "value" : "477"
         }
       ]
     },
@@ -579,6 +585,12 @@ const StringTable = {
         "content": "假如这个世界上有神灵的话，\n当然会和你我一样，对二次元抱有深厚的爱，\n但是有什么样的存在\n会想要看到像这样的一个三次元呢",
         "image": "images/articles/virtual.jpg",
         "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+      },
+      {
+        "title": "自我感动",
+        "content": "做了这个网站，也不会有人来看的\n所做的一切，不过是自我感动罢了\n但是，仔细想想，也是我自己太矛盾了\n本能的想让别人认可，又理性的明白这是不可能的。\n自我感动，总比靠别人感动自己好得多了。",
+        "image": "images/articles/autoaffection.jpg",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/blog-post_18.html"
       },
       {
         "title": "逆人择原理",
@@ -831,7 +843,7 @@ const StringTable = {
       {
         "title": "数据可视化",
         "content": "从前炼金术士罗罗娜煮派，现在则有数据工程师画饼图（pie chart）。",
-        "href" : "https://medium.com/@kotri/roronas-machine-learning-lab-part-1-4-1-b68d904174c2",
+        "href" : "https://ar3.moe/dd/?t=110",
         "level" : 39
       },
       {
