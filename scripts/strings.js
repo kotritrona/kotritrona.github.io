@@ -101,6 +101,12 @@ const StringTable = {
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
       },
       {
+        "title": "Rabi-Ribi",
+        "content": "The origin of my name, a metroidvania game mixed with cuteness.\nKotri is a boss in the game with three different colors and attacks with drones.\nLevel depends on game difficulty and item gather rate.\nI liked this game so much that I did a research on every byte of its save game file.",
+        "image": "images/articles/rabi.jpg",
+        "href" : "https://gist.github.com/kotritrona/7cf4c2e1738589b19abe96512fb61beb"
+      },
+      {
         "title": "Monster Hunter",
         "content": "In the undergraduate period I played my first Monster Hunter, MHP3 on PPSSPP Emulator.\nLater on, I borrowed a used 3DS and finished the main story in MH Generations.\nSince 2018 I achieved platinum trophy on Monster Hunter World PS4 and later on reached endgame in Iceborne.\nMainly use a gunlance or a hammer, while sometimes playing Hunting Horn as well.\nProbably the most 'AAA' type of game I have indulged in.",
         "image": "images/articles/mhw.jpg",
@@ -611,7 +617,7 @@ const StringTable = {
         "href" : "https://telegra.ph/Darkness-Theory-2-%E5%A2%9E%E9%95%BF%E7%BB%88%E7%BB%93-12-15"
       },
       {
-        "title": "分久必合，合久，就什么也没有了",
+        "title": "分久必合，合久则无",
         "content": "一个国家经常在某个循环中毁灭掉自己。\n之所以人类没有因此灭亡，是因为有其他不同阶段的国家进来重新占领。\n但是全球化的趋势终将统一世界，\n而统一后的世界，或许下一个循环的结束之时，就是一切的终点。",
         "image": "images/articles/dt3.jpg",
         "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
@@ -623,6 +629,12 @@ const StringTable = {
         "content": "Gust的炼金工作室系列的忠实粉丝。\n先是在PC平台上接触了不可思议系列的三部作品，\n后来白金通关了PS4版的亚兰德四部曲以及莱莎、奈尔克。\n另外有个工作室手游（アトリエ クエストボード）也是神作（后来停止运营了）。\n期待接下来发售的黄昏DX系列。",
         "image": "images/articles/atelier.jpg",
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
+      },
+      {
+        "title": "Rabi-Ribi",
+        "content": "名字的来源，一款2D平版动作游戏。\n可塔莉(Kotri)是游戏里的一个boss，有三种颜色，用浮游炮攻击。\n而等级(Lv)则与难度和物品收集的数量相关。\n因为太好玩了，我甚至把这个游戏的存档文件研究了一遍。",
+        "image": "images/articles/rabi.jpg",
+        "href" : "https://gist.github.com/kotritrona/7cf4c2e1738589b19abe96512fb61beb"
       },
       {
         "title": "怪物猎人",
