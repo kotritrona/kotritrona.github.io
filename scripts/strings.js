@@ -66,7 +66,7 @@ const StringTable = {
         "title": "Auto-affection",
         "content": "No one is going to visit any of my website.\nEverything I have done, is nothing but an auto-affection.\nBut thinking again after I did this all, I decided it was all worth it.\nAuto-affection is much better than relying on others to send affection to me.",
         "image": "images/articles/autoaffection.jpg",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/blog-post_18.html"
+        "href" : "https://medium.com/@kotri/%E5%81%9A%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B9%9F%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8%E8%80%8C%E5%B7%B2-9ccfedd41b55"
       },
       {
         "title": "Reverse Anthropic Principle",
@@ -141,49 +141,49 @@ const StringTable = {
       {
         "title": "Tell them, I've had a wonderful life",
         "content": "Tell them, I've lived a wonderful life.\nNothing more wonderful could this life be like.\nNext world, maybe we can finally begin putting some effort.\nAnd it wouldn't be bad if we don't.",
-        "href" : "https://ar3.moe/dd/?t=138",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/8.html",
         "important" : false
       },
       {
         "title": "Sour Lemon/Yellow Lemon",
         "content": "For someone like me, the only and best way of life is to play games until the end of the world.\nTrying to join the normal crew is futile, but I accept this as I knew I would since long ago.\nAnd I have done it. Ever annoyed, perplexed, but always believed it was correct.",
-        "href" : "https://ar3.moe/dd/?t=137",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/7.html",
         "important" : false
       },
       {
         "title": "Postgraduate Outside Wall Maria (2018 - 2019)",
         "content": "People said that it takes effort to study abroad.\nNope, it was basically cash and luck.\nNo effort is ever required in this world to success in anything.",
-        "href" : "https://ar3.moe/dd/?t=131",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/6.html",
         "important" : true
       },
       {
         "title": "Failed Job Interviews (2017)",
         "content": "A lot people talk about successful job interviews.\nDoes anyone say how badly they failed?\nProbably not, as it would invoke trauma of readers and consequently drop their followers.",
-        "href" : "https://ar3.moe/dd/?t=136",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/5.html",
         "important" : false
       },
       {
         "title": "University Life (2013 - 2017)",
         "content": "My life in university literally consists of video games.\nAnd more video games.\nFor the other things, I cannot possible achieve them anyways.",
-        "href" : "https://ar3.moe/dd/?t=135",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/4.html",
         "important" : true
       },
       {
         "title": "Grievous Highschool Period (2010 - 2012)",
         "content": "It was painful at that time.\nThe five stage of grief - denial, anger, bargaining, depression, acceptance.\nIf I go through these five stages, do I become less grievous, or even more?",
-        "href" : "https://ar3.moe/dd/?t=134",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/3.html",
         "important" : true
       },
       {
         "title": "Truth Hidden between the Pages (2007 - 2010)",
         "content": "Reading books grants knowledge.\nHowever, beyond knowledge there lies the truth, and the truth hurts.",
-        "href" : "https://ar3.moe/dd/?t=133",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/2.html",
         "important" : true
       },
       {
         "title": "The Beginning of Everything Else",
         "content": "I could have walked down the same path as theirs, as a so-called genius, pridefully.\nBut it was the path to doom, it was a path which would bring me nothing but eternal suffering.",
-        "href" : "https://ar3.moe/dd/?t=132",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/1.html",
         "important" : false
       }
     ],
@@ -596,7 +596,7 @@ const StringTable = {
         "title": "自我感动",
         "content": "做了这个网站，也不会有人来看的\n所做的一切，不过是自我感动罢了\n但是，仔细想想，也是我自己太矛盾了\n本能的想让别人认可，又理性的明白这是不可能的。\n自我感动，总比靠别人感动自己好得多了。",
         "image": "images/articles/autoaffection.jpg",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/blog-post_18.html"
+        "href" : "https://medium.com/@kotri/%E5%81%9A%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B9%9F%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8%E8%80%8C%E5%B7%B2-9ccfedd41b55"
       },
       {
         "title": "逆人择原理",
@@ -671,49 +671,49 @@ const StringTable = {
       {
         "title": "告诉他们，我度过了美好的一生",
         "content": "告诉他们，我度过了美好的一生。\n这样的一生，再美不过了。\n下个世界，再开始努力吧。\n——「不，下个世界也不努力，也没关系的。」",
-        "href" : "https://ar3.moe/dd/?t=138",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/8.html",
         "important" : false
       },
       {
         "title": "酸柠檬/黄柠檬",
         "content": "对我这样的人来说，唯一的方式就是，好好享受打游戏的时间，当成人生的最后来度过。\n工作当然是找不到的，这时候所需要做的就是，接受这个结果，好好在家打游戏。\n我也一直以来都真的这么做了。曾经迷茫过，逃避过，但认为这么做是错的，一次也没有。",
-        "href" : "https://ar3.moe/dd/?t=137",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/7.html",
         "important" : false
       },
       {
         "title": "留学篇 (2018 - 2019)",
         "content": "人们说出国留学很难。\n怎么会呢，一点都不难。只需要两样东西：运气和金钱。\n努力在任何情况下都是没有必要，也没有用的。",
-        "href" : "https://ar3.moe/dd/?t=131",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/6.html",
         "important" : true
       },
       {
         "title": "大学时光之后 (2017)",
         "content": "很多人谈面试成功的经验，所谓面经。\n但是有人谈到过他们是如何面试无数次都失败了的吗？\n大概是不会有了，因为这样的人在现实中没有朋友，没有人会关注他们写了什么。",
-        "href" : "https://ar3.moe/dd/?t=136",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/5.html",
         "important" : false
       },
       {
         "title": "大学时光 (2013 - 2017)",
         "content": "大学四年，几乎没有学习压力，好好打了四年游戏。\n我没有压力，没有犹豫，因为我明白这样才是对的。\n啊，当时最好玩的游戏，我认为是Love Live。",
-        "href" : "https://ar3.moe/dd/?t=135",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/4.html",
         "important" : true
       },
       {
         "title": "高中时期 (2010 - 2012)",
         "content": "明白一切的感觉，实在是太痛苦了。\n悲伤的五个阶段：否认，愤怒，讨价还价，抑郁，接受。\n但是五个阶段之后，接受了悲伤，难道不是更悲伤了吗？",
-        "href" : "https://ar3.moe/dd/?t=134",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/3.html",
         "important" : true
       },
       {
         "title": "书海无涯，回头是岸 (2007 - 2010)",
         "content": "但是，如果你学校成绩不错，但是人际交往能力极低，连说话也不会说呢？\n没有一本书会告诉你怎么做，才能让这样的人，哪怕只是生存下去。\n那时候，我理解了这份沉默的含义：没有的含义就是，没有。真的没有办法了。",
-        "href" : "https://ar3.moe/dd/?t=133",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/2.html",
         "important" : true
       },
       {
         "title": "另一条跑道的起点",
         "content": "如果不是我发现了这一切，或许我之后都会走在他们编织好的名为好学生的路上。\n之后到处进入培训班奥数，把家里的积蓄浪费在毫无意义的提高分数上。\n然后，在走出校园，面对真实之时，发觉自己被欺骗而无意义的一生，竹篮打水一场空。",
-        "href" : "https://ar3.moe/dd/?t=132",
+        "href" : "https://kotri-lv164.blogspot.com/2019/12/1.html",
         "important" : false
       }
     ],
