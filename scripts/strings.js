@@ -216,13 +216,13 @@ const StringTable = {
         "title": "zzencode",
         "content": "Encode any Javascript to symbols only.",
         "image": "images/thumbnails/zzencode.jpg",
-        "href" : "https://ar3.moe/zzencode/"
+        "href" : "https://kotritrona.github.io/zzencode/"
       },
       {
         "title": "2e48",
         "content": "Magically edited 2048 to become a Clicker Hero type of game.",
         "image": "images/thumbnails/2e48.jpg",
-        "href" : "https://ar3.moe/2e48/"
+        "href" : "https://kotritrona.github.io/2e48/"
       },
       {
         "title": "gem2048",
@@ -355,7 +355,7 @@ const StringTable = {
       {
         "title": "Web Server",
         "content": "Installed forums, blog, cloud storage, database, music player and webgames on the server to create my own instance of internet.",
-        "href" : "https://ar3.moe/dd/",
+        "href" : undefined,
         "level" : 35
       },
       {
@@ -746,13 +746,13 @@ const StringTable = {
         "title": "zzencode",
         "content": "把所有的Javascript代码加密符号化。",
         "image": "images/thumbnails/zzencode.jpg",
-        "href" : "https://ar3.moe/zzencode/"
+        "href" : "https://kotritrona.github.io/zzencode/"
       },
       {
         "title": "2e48",
         "content": "撒，谁知道这是做什么用的呢……",
         "image": "images/thumbnails/2e48.jpg",
-        "href" : "https://ar3.moe/2e48/"
+        "href" : "https://kotritrona.github.io/2e48/"
       },
       {
         "title": "gem2048",
@@ -855,7 +855,7 @@ const StringTable = {
       {
         "title": "数据可视化",
         "content": "从前炼金术士罗罗娜煮派，现在则有数据工程师画饼图（pie chart）。",
-        "href" : "https://ar3.moe/dd/?t=110",
+        "href" : "https://kotritrona.github.io/hexo-blog/2019/12/24/roronapie/",
         "level" : 39
       },
       {
@@ -885,7 +885,7 @@ const StringTable = {
       {
         "title": "网络服务器",
         "content": "在服务器上装上了论坛、博客、云盘、数据库、音乐播放器和网页游戏，这样就可以断掉国际互联网，享受自己的局域网了。",
-        "href" : "https://ar3.moe/dd/",
+        "href" : undefined,
         "level" : 35
       },
       {
