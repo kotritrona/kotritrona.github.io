@@ -96,7 +96,7 @@ const StringTable = {
     "adventuresArticles" : [
       {
         "title": "Atelier Series",
-        "content": "Gust's Atelier series is my favorite franchise.\nI have played each one in Mysterious trilogy (Sophie, Firis, Lydie/Suelle) twice,\nthen explored Arland with Rorona, Totori, Meruru and finally Lulua. \nAnother great mention is Atelier Questboard, where it took me a year to finally beat the final stage.\nRyza has a rather short story but is also a really great game.\nLooking forward to Dusk DX!",
+        "content": "Gust's Atelier series is my favorite franchise.\nI have played each one in Mysterious trilogy (Sophie, Firis, Lydie/Suelle) twice,\nthen explored Arland with Rorona, Totori, Meruru and finally Lulua. \nAnother great mention is Atelier Questboard, where it took me a year to finally beat the final stage.\nRyza has a rather short story but is also a really great game.\nNow playing Atelier Ayesha DX!",
         "image": "images/articles/atelier.jpg",
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
       },
@@ -626,7 +626,7 @@ const StringTable = {
     "adventuresArticles" : [
       {
         "title": "炼金工房系列",
-        "content": "Gust的炼金工作室系列的忠实粉丝。\n先是在PC平台上接触了不可思议系列的三部作品，\n后来白金通关了PS4版的亚兰德四部曲以及莱莎、奈尔克。\n另外有个工作室手游（アトリエ クエストボード）也是神作（后来停止运营了）。\n期待接下来发售的黄昏DX系列。",
+        "content": "Gust的炼金工作室系列的忠实粉丝。\n先是在PC平台上接触了不可思议系列的三部作品，\n后来白金通关了PS4版的亚兰德四部曲以及莱莎、奈尔克。\n另外有个工作室手游（アトリエ クエストボード）也是神作（后来停止运营了）。\n正在游玩：爱夏的工作室DX",
         "image": "images/articles/atelier.jpg",
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
       },
