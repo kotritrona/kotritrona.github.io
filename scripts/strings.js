@@ -63,6 +63,12 @@ const StringTable = {
         "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
       },
       {
+        "title": "The channels with no subscribers",
+        "content": "It is an advertisement bias.\nPeople are only able to read the stories those who achieved success,\nhowever most people who failed never get the public attention to tell their tales.",
+        "image": "images/articles/searchbias.jpg",
+        "href" : "https://telegra.ph/%E6%B2%A1%E6%9C%89%E8%AE%A2%E9%98%85%E8%80%85%E7%9A%84%E9%A2%91%E9%81%93%E4%BB%AC-04-04"
+      },
+      {
         "title": "Auto-affection",
         "content": "No one is going to visit any of my website.\nEverything I have done, is nothing but an auto-affection.\nBut thinking again after I did this all, I decided it was all worth it.\nAuto-affection is much better than relying on others to send affection to me.",
         "image": "images/articles/autoaffection.jpg",
@@ -96,7 +102,7 @@ const StringTable = {
     "adventuresArticles" : [
       {
         "title": "Atelier Series",
-        "content": "Gust's Atelier series is my favorite franchise.\nI have played each one in Mysterious trilogy (Sophie, Firis, Lydie/Suelle) twice,\nthen explored Arland with Rorona, Totori, Meruru and finally Lulua. \nAnother great mention is Atelier Questboard, where it took me a year to finally beat the final stage.\nRyza has a rather short story but is also a really great game.\nNow playing Atelier Ayesha DX!",
+        "content": "Gust's Atelier series is my favorite franchise.\nI have played each one in Mysterious trilogy (Sophie, Firis, Lydie/Suelle) twice,\nthen explored Arland with Rorona, Totori, Meruru and finally Lulua. \nAnother great mention is Atelier Questboard, where it took me a year to finally beat the final stage.\nRyza has a rather short story but is also a really great game.\nAlso platinum'd the three games of Atelier Dusk DX!",
         "image": "images/articles/atelier.jpg",
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
       },
@@ -593,6 +599,12 @@ const StringTable = {
         "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
       },
       {
+        "title": "没有订阅者的频道们",
+        "content": "这个世界上存在着一种成功学偏差。\n人们只能看到其他人如何成功，却很少有人出来讲，他们是怎么失败的。\n然而，没有粉丝的up主才是大多数。",
+        "image": "images/articles/searchbias.jpg",
+        "href" : "https://telegra.ph/%E6%B2%A1%E6%9C%89%E8%AE%A2%E9%98%85%E8%80%85%E7%9A%84%E9%A2%91%E9%81%93%E4%BB%AC-04-04"
+      },
+      {
         "title": "自我感动",
         "content": "做了这个网站，也不会有人来看的\n所做的一切，不过是自我感动罢了\n但是，仔细想想，也是我自己太矛盾了\n本能的想让别人认可，又理性的明白这是不可能的。\n自我感动，总比靠别人感动自己好得多了。",
         "image": "images/articles/autoaffection.jpg",
@@ -617,7 +629,7 @@ const StringTable = {
         "href" : "https://telegra.ph/Darkness-Theory-2-%E5%A2%9E%E9%95%BF%E7%BB%88%E7%BB%93-12-15"
       },
       {
-        "title": "分久必合，合久则无",
+        "title": "国家的自毁路线",
         "content": "一个国家经常在某个循环中毁灭掉自己。\n之所以人类没有因此灭亡，是因为有其他不同阶段的国家进来重新占领。\n但是全球化的趋势终将统一世界，\n而统一后的世界，或许下一个循环的结束之时，就是一切的终点。",
         "image": "images/articles/dt3.jpg",
         "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
@@ -626,7 +638,7 @@ const StringTable = {
     "adventuresArticles" : [
       {
         "title": "炼金工房系列",
-        "content": "Gust的炼金工作室系列的忠实粉丝。\n先是在PC平台上接触了不可思议系列的三部作品，\n后来白金通关了PS4版的亚兰德四部曲以及莱莎、奈尔克。\n另外有个工作室手游（アトリエ クエストボード）也是神作（后来停止运营了）。\n正在游玩：爱夏的工作室DX",
+        "content": "Gust的炼金工作室系列的忠实粉丝。\n先是在PC平台上接触了不可思议系列的三部作品，\n后来白金通关了PS4版的亚兰德四部曲、黄昏三部曲以及莱莎、奈尔克。\n另外有个工作室手游（アトリエ クエストボード）也是神作（后来停止运营了）。",
         "image": "images/articles/atelier.jpg",
         "href" : "https://www.koeitecmoamerica.com/duskdx/"
       },
