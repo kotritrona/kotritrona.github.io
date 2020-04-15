@@ -57,22 +57,40 @@ const StringTable = {
     },
     "thoughtsArticles" : [
       {
-        "title": "Virtuality and Reality",
+        "title": "Virtual Reality",
         "content": "If there are deities in this world,\nthey will, just like us, hold love and passion for the virtual world.\nBut what kind of merciless creature,\nwould wish to see such a terrible reality?",
         "image": "images/articles/virtual.jpg",
-        "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+        "href" : "https://medium.com/@kotri/virtual-reality-5d545a80abf1"
       },
       {
         "title": "The channels with no subscribers",
         "content": "It is an advertisement bias.\nPeople are only able to read the stories those who achieved success,\nhowever most people who failed never get the public attention to tell their tales.",
         "image": "images/articles/searchbias.jpg",
-        "href" : "https://telegra.ph/%E6%B2%A1%E6%9C%89%E8%AE%A2%E9%98%85%E8%80%85%E7%9A%84%E9%A2%91%E9%81%93%E4%BB%AC-04-04"
+        "href" : "https://medium.com/@kotri/channels-with-no-subscribers-3f2cd5ad56f0"
       },
       {
-        "title": "Auto-affection",
-        "content": "No one is going to visit any of my website.\nEverything I have done, is nothing but an auto-affection.\nBut thinking again after I did this all, I decided it was all worth it.\nAuto-affection is much better than relying on others to send affection to me.",
-        "image": "images/articles/autoaffection.jpg",
-        "href" : "https://medium.com/@kotri/%E5%81%9A%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B9%9F%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8%E8%80%8C%E5%B7%B2-9ccfedd41b55"
+        "title": "Untitled Game Streamers",
+        "content": "A series of small stories made up from the history of some unknown video makers.\nNot a failed career, but life of a normal person.\nSomeone we randomly pass by every day, friends of a friend we never know about.",
+        "image": "images/articles/noviews.jpg",
+        "href" : "https://telegra.ph/%E5%A4%B1%E8%B4%A5%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8B-04-05"
+      },
+      {
+        "title": "The last remaining value of manpower",
+        "content": "We have finally come to a time where manpower is worthless.\nInformation age invented so many human replacements that human becomes obsolete.\nWhat else can we do, when we are out of value?",
+        "image": "images/articles/lastmanpower.jpg",
+        "href" : "https://telegra.ph/%E4%BA%BA%E7%B1%BB%E6%9C%80%E5%90%8E%E7%9A%84%E4%BB%B7%E5%80%BC-04-06"
+      },
+      {
+        "title": "Committee of 7 billion",
+        "content": "There is too much population on this poor planet.\nPeople are everywhere, in the bus, the metro, the grocery, or in the Comic Market.\nHowever, natural rules still prevail, and people now unconsciously take action to reduce their own population.",
+        "image": "images/articles/comm7b.jpg",
+        "href" : "https://telegra.ph/70%E4%BA%BF%E4%BA%BA%E8%AE%AE%E4%BA%8B%E4%BC%9A-04-06"
+      },
+      {
+        "title": "Creating an Own Internet",
+        "content": "Install an internet on an own computer.\nThen, cut off the rest of the world, and cut off the information pollution.\nIt is like a small island in the great ocean of internet, a sweet home.",
+        "image": "images/articles/myserver.jpg",
+        "href" : "https://telegra.ph/%E5%9C%A8%E8%85%90%E7%83%82%E7%9A%84%E7%BD%91%E7%BB%9C%E9%87%8C%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91%E6%90%AD%E5%BB%BA%E4%B8%80%E7%89%87%E5%87%80%E5%9C%9F-04-14"
       },
       {
         "title": "Reverse Anthropic Principle",
@@ -596,7 +614,7 @@ const StringTable = {
         "title": "二次元和三次元",
         "content": "假如这个世界上有神灵的话，\n当然会和你我一样，对二次元抱有深厚的爱，\n但是有什么样的存在\n会想要看到像这样的一个三次元呢",
         "image": "images/articles/virtual.jpg",
-        "href" : "https://medium.com/@kotri/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-cacd95b2d231"
+        "href" : "https://telegra.ph/%E4%BA%8C%E6%AC%A1%E5%85%83%E5%92%8C%E4%B8%89%E6%AC%A1%E5%85%83-04-11"
       },
       {
         "title": "没有订阅者的频道们",
@@ -605,10 +623,28 @@ const StringTable = {
         "href" : "https://telegra.ph/%E6%B2%A1%E6%9C%89%E8%AE%A2%E9%98%85%E8%80%85%E7%9A%84%E9%A2%91%E9%81%93%E4%BB%AC-04-04"
       },
       {
-        "title": "自我感动",
-        "content": "做了这个网站，也不会有人来看的\n所做的一切，不过是自我感动罢了\n但是，仔细想想，也是我自己太矛盾了\n本能的想让别人认可，又理性的明白这是不可能的。\n自我感动，总比靠别人感动自己好得多了。",
-        "image": "images/articles/autoaffection.jpg",
-        "href" : "https://medium.com/@kotri/%E5%81%9A%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E4%B9%9F%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E6%84%9F%E5%8A%A8%E8%80%8C%E5%B7%B2-9ccfedd41b55"
+        "title": "失败者的故事",
+        "content": "从几个无人问津的视频作者的投稿经历，脑补出他们身上发生的故事而写出的文章。\n或许，这些都不应该称之为失败者，而是普通人的故事。\n他们就像我们身边的陌生人，默默无闻的朋友的朋友，普通人的人生。",
+        "image": "images/articles/noviews.jpg",
+        "href" : "https://telegra.ph/%E5%A4%B1%E8%B4%A5%E8%80%85%E7%9A%84%E6%95%85%E4%BA%8B-04-05"
+      },
+      {
+        "title": "人类最后的价值",
+        "content": "终于来到了人的努力毫无价值的时代。\n劳动力实在是太过剩了，互联网时代里发明了无数种新技术，把人力给替代掉。\n在这无价值的时代里，剩下的人还能做什么呢？",
+        "image": "images/articles/lastmanpower.jpg",
+        "href" : "https://telegra.ph/%E4%BA%BA%E7%B1%BB%E6%9C%80%E5%90%8E%E7%9A%84%E4%BB%B7%E5%80%BC-04-06"
+      },
+      {
+        "title": "70亿人议事会",
+        "content": "这个地球上的人口太多了。\n无论是公交车里、地铁上、商店里、大街上还是漫展里，摩肩接踵，人山人海。\n所以，人们正在有意无意之间，遵循着大自然的规则，自觉地减少人口的数量。",
+        "image": "images/articles/comm7b.jpg",
+        "href" : "https://telegra.ph/70%E4%BA%BF%E4%BA%BA%E8%AE%AE%E4%BA%8B%E4%BC%9A-04-06"
+      },
+      {
+        "title": "搭建一片污染的网络中自己的净土",
+        "content": "在自己的电脑上建立属于自己的互联网。\n然后，把外面被污染殆尽的网络隔绝，眼不见为净。\n就像是在无边无际的大海里，创建自己的一片小岛，从此成为一个有家的人。",
+        "image": "images/articles/myserver.jpg",
+        "href" : "https://telegra.ph/%E5%9C%A8%E8%85%90%E7%83%82%E7%9A%84%E7%BD%91%E7%BB%9C%E9%87%8C%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E7%94%B5%E8%84%91%E6%90%AD%E5%BB%BA%E4%B8%80%E7%89%87%E5%87%80%E5%9C%9F-04-14"
       },
       {
         "title": "逆人择原理",
