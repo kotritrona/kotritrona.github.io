@@ -90,25 +90,25 @@ const StringTable = {
         "title": "Reverse Anthropic Principle",
         "content": "If there exists a universe whose inhabitants can live on forever,\nthen the ephemeral human beings will be statistically insignificant to exist here.\nHence, the reverse anthropic principle.\nThe only possibility is for all beings to equally come to an end.",
         "image": "images/articles/dt4.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
+        "href" : "https://telegra.ph/Darkness-Theory-4-Reverse-Anthropic-Principle-04-25"
       },
       {
-        "title": "The end of economical growth",
-        "content": "People live in an illusion called exponential growth.\nThere is never exponential growth in the world - only logistic ones.\nWhen the economical growth stops, the unpowered can do nothing but fall back.\nBack to square one - the Malthusian trap where they can barely survive.",
-        "image": "images/articles/dt2.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-2-%E5%A2%9E%E9%95%BF%E7%BB%88%E7%BB%93-12-15"
-      },
-      {
-        "title": "Cycles, nations and their limits",
+        "title": "Breaking Cycle",
         "content": "Very often does a nation destroy itself in one of the cycles.\nThe reason the world doesn't end in this way, is that other nations will come and take the place.\nHowever, globalization unifies all.\nWhen humanity is eventually unified, one of the cycles will probably spell its end.",
         "image": "images/articles/dt3.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
+        "href" : "https://telegra.ph/Darkness-Theory-3-Breaking-Cycle-04-25"
       },
       {
-        "title": "My three rules of life",
+        "title": "End of Growth",
+        "content": "People live in an illusion called exponential growth.\nThere is never exponential growth in the world - only logistic ones.\nWhen the economical growth stops, the unpowered can do nothing but fall back.\nBack to square one - the Malthusian trap where they can barely survive.",
+        "image": "images/articles/dt2.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-2-End-of-Growth-04-25"
+      },
+      {
+        "title": "Disqualified Human",
         "content": "1. I cannot find a job.\n2. I cannot find a love.\n3. I cannot earn money.\nBecause I know I just can't.",
         "image": "images/articles/dt1.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-1-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC-12-15"
+        "href" : "https://telegra.ph/Darkness-Theory-1-Disqualified-Human-04-25"
       }
     ],
     "adventuresArticles" : [
@@ -128,7 +128,7 @@ const StringTable = {
         "title": "Monster Hunter",
         "content": "In the undergraduate period I played my first Monster Hunter, MHP3 on PPSSPP Emulator.\nLater on, I borrowed a used 3DS and finished the main story in MH Generations.\nSince 2018 I achieved platinum trophy on Monster Hunter World PS4 and later on reached endgame in Iceborne.\nMainly use a gunlance or a hammer, while sometimes playing Hunting Horn as well.\nProbably the most 'AAA' type of game I have indulged in.",
         "image": "images/articles/mhw.jpg",
-        "href" : "https://www.monsterhunterworld.com"
+        "href" : "https://www.reddit.com/r/MonsterHunterWorld/comments/dkeflj/my_new_wellround_build_with_38_different_skills/"
       },
       {
         "title": "Factorio",
@@ -547,7 +547,7 @@ const StringTable = {
         "gauge" : 15
       }
     ],
-    "footer" : "Copyright " + String.fromCodePoint(127819) + " Kotri Lv.208 2019. I do not track you!",
+    "footer" : "Copyright " + String.fromCodePoint(127819) + " Kotri Lv.208 2020. I do not track you!",
     "footerDark" : "(because I don't want to find out no one ever visited)"
   },
 
@@ -641,10 +641,10 @@ const StringTable = {
         "href" : "https://telegra.ph/Darkness-Theory-4-%E9%80%86%E4%BA%BA%E6%8B%A9%E5%8E%9F%E7%90%86-12-15"
       },
       {
-        "title": "我的人生三定律",
-        "content": "1. 我不可能找到工作。\n2. 我不可能恋爱结婚。\n3. 我不可能挣到钱。\n因为我早就明白，我这样的人不可能在这样的社会里生存。",
-        "image": "images/articles/dt1.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-1-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC-12-15"
+        "title": "国家的自毁路线",
+        "content": "一个国家经常在某个循环中毁灭掉自己。\n之所以人类没有因此灭亡，是因为有其他不同阶段的国家进来重新占领。\n但是全球化的趋势终将统一世界，\n而统一后的世界，或许下一个循环的结束之时，就是一切的终点。",
+        "image": "images/articles/dt3.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
       },
       {
         "title": "指数增长的虚拟终点",
@@ -653,10 +653,10 @@ const StringTable = {
         "href" : "https://telegra.ph/Darkness-Theory-2-%E5%A2%9E%E9%95%BF%E7%BB%88%E7%BB%93-12-15"
       },
       {
-        "title": "国家的自毁路线",
-        "content": "一个国家经常在某个循环中毁灭掉自己。\n之所以人类没有因此灭亡，是因为有其他不同阶段的国家进来重新占领。\n但是全球化的趋势终将统一世界，\n而统一后的世界，或许下一个循环的结束之时，就是一切的终点。",
-        "image": "images/articles/dt3.jpg",
-        "href" : "https://telegra.ph/Darkness-Theory-3-%E5%88%86%E4%B9%85%E5%BF%85%E5%90%88-12-15"
+        "title": "我的人生三定律",
+        "content": "1. 我不可能找到工作。\n2. 我不可能恋爱结婚。\n3. 我不可能挣到钱。\n因为我早就明白，我这样的人不可能在这样的社会里生存。",
+        "image": "images/articles/dt1.jpg",
+        "href" : "https://telegra.ph/Darkness-Theory-1-%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC-12-15"
       }
     ],
     "adventuresArticles" : [
@@ -1095,7 +1095,7 @@ const StringTable = {
         "gauge" : 15
       }
     ],
-    "footer" : "Copyright " + String.fromCodePoint(127819) + " Kotri Lv.208 2019. 我不追踪你的行为！",
+    "footer" : "Copyright " + String.fromCodePoint(127819) + " Kotri Lv.208 2020. 我不追踪你的行为！",
     "footerDark" : "我才不想发现我写了这么久网站没一个人看"
   }
 };
