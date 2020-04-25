@@ -159,49 +159,43 @@ const StringTable = {
       {
         "title": "Tell them, I've had a wonderful life",
         "content": "Tell them, I've lived a wonderful life.\nNothing more wonderful could this life be like.\nNext world, maybe we can finally begin putting some effort.\nAnd it wouldn't be bad if we don't.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/8.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-7.html",
         "important" : false
       },
       {
-        "title": "Sour Lemon/Yellow Lemon",
-        "content": "For someone like me, the only and best way of life is to play games until the end of the world.\nTrying to join the normal crew is futile, but I accept this as I knew I would since long ago.\nAnd I have done it. Ever annoyed, perplexed, but always believed it was correct.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/7.html",
-        "important" : false
-      },
-      {
-        "title": "Postgraduate Outside Wall Maria (2018 - 2019)",
+        "title": "Somehow I went on studying abroad (2018 - 2019)",
         "content": "People said that it takes effort to study abroad.\nNope, it was basically cash and luck.\nNo effort is ever required in this world to success in anything.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/6.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-6.html",
         "important" : true
       },
       {
         "title": "Failed Job Interviews (2017)",
         "content": "A lot people talk about successful job interviews.\nDoes anyone say how badly they failed?\nProbably not, as it would invoke trauma of readers and consequently drop their followers.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/5.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-5.html",
         "important" : false
       },
       {
         "title": "University Life (2013 - 2017)",
         "content": "My life in university literally consists of video games.\nAnd more video games.\nFor the other things, I cannot possible achieve them anyways.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/4.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-4.html",
         "important" : true
       },
       {
         "title": "Grievous Highschool Period (2010 - 2012)",
         "content": "It was painful at that time.\nThe five stage of grief - denial, anger, bargaining, depression, acceptance.\nIf I go through these five stages, do I become less grievous, or even more?",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/3.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-3.html",
         "important" : true
       },
       {
         "title": "Truth Hidden between the Pages (2007 - 2010)",
         "content": "Reading books grants knowledge.\nHowever, beyond knowledge there lies the truth, and the truth hurts.",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/2.html",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/let-me-use-old-fashioned-trick-2.html",
         "important" : true
       },
       {
         "title": "The Starting Point is on Another Lane",
         "content": "I could have walked down the same path as theirs, as a so-called genius, pridefully.\nBut it was the path to doom, it was a path which would bring me nothing but eternal suffering.",
-        "href" : "https://medium.com/@kotri/the-starting-point-is-on-another-lane-8b446831bbbf",
+        "href" : "https://kotri-lv165.blogspot.com/2020/04/test.html",
         "important" : false
       }
     ],
@@ -708,12 +702,6 @@ const StringTable = {
         "title": "告诉他们，我度过了美好的一生",
         "content": "告诉他们，我度过了美好的一生。\n这样的一生，再美不过了。\n下个世界，再开始努力吧。\n——「不，下个世界也不努力，也没关系的。」",
         "href" : "https://kotri-lv164.blogspot.com/2019/12/8.html",
-        "important" : false
-      },
-      {
-        "title": "酸柠檬/黄柠檬",
-        "content": "对我这样的人来说，唯一的方式就是，好好享受打游戏的时间，当成人生的最后来度过。\n工作当然是找不到的，这时候所需要做的就是，接受这个结果，好好在家打游戏。\n我也一直以来都真的这么做了。曾经迷茫过，逃避过，但认为这么做是错的，一次也没有。",
-        "href" : "https://kotri-lv164.blogspot.com/2019/12/7.html",
         "important" : false
       },
       {
